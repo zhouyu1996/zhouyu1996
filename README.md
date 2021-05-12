@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 👉 [Curriculum Vitae](http://1.116.226.46/about/)
 - 👉 I’m currently working as an intern in Tencent Security Keen Lab ...
-- 👉 I’m currently studing  in MADRG of CQU ..
+- 👉 I’m currently studing  in Multimodal Data Analysis and Research Group (MDARG) of CQU ...
 
-[![zhouyu99's github stats](https://github-readme-stats.vercel.app/api?username=zhouyu1996)](http://1.116.226.46/)
+![zhouyu99's github stats](https://github-readme-stats.vercel.app/api?username=zhouyu1996)](http://1.116.226.46/)
