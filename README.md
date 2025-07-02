@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 👉 [Curriculum Vitae](http://1.116.226.46/about/)
+- 👉 [Curriculum Vitae]([http://1.116.226.46/about/](https://www.yuque.com/zhouyu99/aboutme/gum7fp?singleDoc#%20%E3%80%8ACurriculum%20Vitae%E3%80%8B))
 - 👉 I’m currently studing  in Multimodal Data Analysis and Research Group (MDARG) of CQU ...
 - 😄 I have finished my internship in TENCENT KEEN LAB (base in Shanghai) and ANT GROUP (base in Chongqing).
 
