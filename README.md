@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👉 I’m currently studing  in Multimodal Data Analysis and Research Group (MDARG) of CQU ...
 - 😄 I have finished my internship in TENCENT KEEN LAB (base in Shanghai) and ANT GROUP (base in Chongqing).
 
-[![zhouyu99's github stats](https://github-readme-stats.vercel.app/api?username=zhouyu1996)](http://1.116.226.46/)
+[![zhouyu99's github stats](https://github-readme-stats.vercel.app/api?username=zhouyu1996)]([http://1.116.226.46/](https://www.yuque.com/zhouyu99/aboutme/gum7fp?singleDoc#%20%E3%80%8ACurriculum%20Vitae%E3%80%8B))
